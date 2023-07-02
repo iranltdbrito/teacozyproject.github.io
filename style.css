@@ -1,0 +1,183 @@
+html {
+    font-family: Helvetica, sans-serif;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+    
+}
+
+header img {
+    margin: 10px;
+    height: 50px;
+}
+
+header {
+    height: 69px;
+    border-bottom: 1px solid seashell;
+}
+
+nav {
+    float: right;
+}
+
+nav a {
+    display: inline;
+    
+    margin: 10px;
+    padding: 10px;
+    color: seashell;
+}
+
+.box {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+
+.background {
+    height: 700px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.ourmission {  
+    margin-top: -450px;
+    width: 1200px;
+    border: 100px solid black;
+    text-align: center;
+    
+}
+
+.our {
+    text-align: center;
+    margin-top: -475px;
+}
+
+.teaof {
+    text-align: center;
+}
+
+.figure {
+    display: flex;
+    justify-content: center;
+
+}
+
+.figure2 {
+    display: flex;
+    justify-content: center;
+}
+
+#blitz {
+    height: 200px;
+    width: 300px;
+}
+
+#spice {
+    height: 200px;
+    width: 300px;
+}
+
+#donuts {
+    height: 200px;
+    width: 300px;
+}
+
+#ave {
+    height: 200px;
+    width: 300px;
+}
+
+#bed {
+    height: 200px;
+    width: 300px;
+}
+
+#figberry {
+    text-align: center;
+    margin: 10px;
+}
+
+#figdonuts {
+    text-align: center;
+    margin: 10px;
+}
+
+#figave {
+    text-align: center;
+    margin: 10px;
+}
+
+#figbed {
+    text-align: center;
+    margin: 10px;
+}
+
+#figspice {
+    text-align: center;
+    margin: 10px;
+}
+
+#titleloc {
+    text-align: center;
+    margin-top: -600px;
+}
+
+.locations {
+    margin-top: 100px;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+
+}
+
+#downtown {
+    
+    
+    border: 20px solid black;
+    width: 300px;
+    text-align: center;
+    background-color: black;
+    opacity: 1;
+    margin-right: 40px;
+
+}
+
+#eastbay {
+    border: 20px solid black;
+    width: 300px;
+    text-align: center;
+    background-color: black;
+    opacity: 1;
+    margin-right: 40px;
+
+}
+
+#oakdale {
+    border: 20px solid black;
+    width: 300px;
+    text-align: center;
+    background-color: black;
+    opacity: 1;
+    margin-right: 40px;
+}
+
+.bottom {
+    text-align: center;
+    margin-top: 270px;
+}
